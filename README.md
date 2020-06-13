@@ -1,0 +1,2 @@
+# unupx_deep
+[No Dependencies][Drag&amp;Drop][CMD][Download][Free] UnUPX (extract UPX compression) of the file itself and all its RCDATA embedded-resources which you normally can not do. then it put it all back together. useful to make an UnUPX-ed version of Rufus for example (see https://github.com/pbatard/rufus/issues/1120 ). The work is free to use (public domain) but each tool has its own license. 
