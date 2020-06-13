@@ -1,0 +1,33 @@
+*.cmd       text    eol=crlf
+
+*.txt       text    eol=crlf
+
+*.log       text    eol=crlf
+
+*.html      text    eol=crlf
+
+*.c         text    eol=crlf
+
+*.h         text    eol=crlf
+
+*.xml       text    eol=crlf
+
+*.mof       text    eol=crlf
+
+*.odl       text    eol=crlf
+
+*.inl       text    eol=crlf
+
+*.idl       text    eol=crlf
+
+*.rh        text    eol=crlf
+
+*.ver       text    eol=crlf
+
+*.dlg       text    eol=crlf
+
+*.xsd       text    eol=crlf
+
+*.          text    eol=crlf
+
+README.md           eol=crlf
